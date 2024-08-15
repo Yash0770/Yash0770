@@ -52,11 +52,12 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://linkedin.com/in/yash-solanki-45a6b41bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash-solanki-45a6b41bb/"></a>
-   <a href="https://www.instagram.com/yash07_"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-yash07_-blue?style=flat-square&logo=instagram"></a>
-<a href="https://discord.gg/nEV96Y9a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nEV96Y9a" height="30" width="40" /></a>
-<a href="mailto:yashsolanki0728@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-yashsolanki0728@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<!--<a href="https://linkedin.com/in/yash-solanki-45a6b41bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash-solanki-45a6b41bb/"></a>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=yash0770" alt="Count :: Visitor's Count" />
+  -->
+  <a href="https://discord.gg/nEV96Y9a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nEV96Y9a" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/yash07_"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-yash07_-blue?style=flat-square&logo=instagram"></a>
+  <a href="mailto:yashsolanki0728@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-yashsolanki0728@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 
