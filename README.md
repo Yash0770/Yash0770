@@ -14,16 +14,21 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
-  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333?style=flat&logo=Tailwind-CSS)
   ![NextJS](https://img.shields.io/badge/-NextJS-333?logo=Next.js)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat&logo=typescript)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
+  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333?style=flat&logo=Tailwind-CSS)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Material UI](https://img.shields.io/badge/-Material%20UI-333?style=flat&logo=Material-UI)
+  ![WebSocket](https://img.shields.io/badge/-WebSocket-333?style=flat&logo=websocket)
 - 📶 &nbsp;
   ![MongoDb](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github)
+  ![Azure](https://img.shields.io/badge/-Azure-333?style=flat&logo=microsoftazure)
+  ![Vercel](https://img.shields.io/badge/-Vercel-333?style=flat&logo=vercel)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
