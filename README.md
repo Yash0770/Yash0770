@@ -20,7 +20,7 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
   ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333?style=flat&logo=Tailwind-CSS)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Material UI](https://img.shields.io/badge/-Material%20UI-333?style=flat&logo=Material-UI)
+  <!-- ![Material UI](https://img.shields.io/badge/-Material%20UI-333?style=flat&logo=Material-UI) -->
   ![WebSocket](https://img.shields.io/badge/-WebSocket-333?style=flat&logo=websocket)
 - 📶 &nbsp;
   ![MongoDb](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
